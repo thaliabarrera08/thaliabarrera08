@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thaliabarrera08
-- 👀 I’m interested in learning how to write code
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in becoming an excellent Front-End Developer
+- 🌱 I’m currently learning JavaScript React & Vue
 - 💞️ I’m looking to collaborate on any projects, entry level
 - 📫 Reach me via e-mail at: thaliabarrera08@gmail.com
 
